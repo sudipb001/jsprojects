@@ -10,7 +10,7 @@ body {
 }
 
 .calculator {
-  padding: 20px;
+  padding: 15px;
   -webkit-box-shadow: 0px 1px 4px 0px rgba(0, 0, 0, 0.2);
   box-shadow: 0px 1px 4px 0px rgba(0, 0, 0, 0.2);
   border-radius: 1px;
@@ -99,7 +99,7 @@ div.equal {
   display: inline-block;
   border: 1px solid #3079ed;
   border-radius: 1px;
-  width: 17%;
+  width: 15%;
   text-align: center;
   padding: 127px 10px;
   margin: 10px 6px 10px 0;
